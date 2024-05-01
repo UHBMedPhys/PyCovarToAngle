@@ -1,4 +1,5 @@
 # PyCovarToAngle
+This repository is primarily a test-bed for our public github repos (although the code here should work as intended).
 Python implementation of a Covariance matrix parameterisation
 
 This is a Python implementation of:
